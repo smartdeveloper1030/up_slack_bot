@@ -1,2 +1,2 @@
-# up_slack_bot
-slack bot
+# upwork_slack_bot
+upwork_slack_bot
