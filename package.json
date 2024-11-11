@@ -1,0 +1,38 @@
+{
+  "name": "bit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev1": "node index1.js",
+    "dev2": "node index2.js",
+    "dev3": "node index3.js",
+    "dev4": "node index4.js",
+    "dev5": "node index5.js",
+    "dev6": "node index6.js",
+    "dev7": "node index7.js",
+    "dev8": "node index8.js",
+    "dev9": "node index9.js",
+    "dev10": "node index10.js",
+    "a2": "node a2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "@slack/web-api": "^7.4.0",
+    "axios": "^1.7.7",
+    "chalk": "^5.3.0",
+    "googleapis": "^144.0.0",
+    "http-proxy-agent": "^5.0.0",
+    "https-proxy-agent": "^5.0.0",
+    "node-notifier": "^10.0.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "user-agents": "^1.1.323"
+  }
+}
